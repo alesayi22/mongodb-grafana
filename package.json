@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesOsgood/mongodb-grafana.git"
+    "url": "git+https://github.com/alesayi22/mongodb-grafana.git"
   },
   "author": "James Osgood",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JamesOsgood/mongodb-grafana/issues"
+    "url": "https://github.com/alesayi22/mongodb-grafana/issues"
   },
   "engines": {
     "node": "6.10.0"
@@ -51,7 +51,7 @@
     "lodash": "^4.17.10",
     "mocha": "^5.2.0",
     "moment": "^2.22.1",
-    "mongodb": "^4.12.1",
+    "mongodb": "^6.2.0",
     "statman-stopwatch": "^2.7.0"
   },
   "homepage": "https://github.com/JamesOsgood/mongodb-grafana#readme"
