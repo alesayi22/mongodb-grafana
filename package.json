@@ -19,9 +19,9 @@
     "url": "https://github.com/JamesOsgood/mongodb-grafana/issues"
   },
   "engines": {
-    "node": "10.19.0"
+    "node": "6.10.0"
   },
-  "engineStrict": true,
+  "engineStrict": false,
   "devDependencies": {
     "babel": "^6.23.0",
     "chai": "~3.5.0",
