@@ -19,7 +19,7 @@
     "url": "https://github.com/alesayi22/mongodb-grafana/issues"
   },
   "engines": {
-    "node": "6.10.0"
+    "node": "16.20.2"
   },
   "engineStrict": true,
   "devDependencies": {
